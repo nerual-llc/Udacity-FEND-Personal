@@ -7,7 +7,7 @@ body{
   width: 90%;
   margin: auto;
   Margin-top: 150px;
-  /*Step 2: Setup rows and columns */
+  /* Step 2: Setup rows and columns */
   grid-template-column: 10px repeat(7, 1fr);
   grid-template-rows: 20px 400px 1fr;
   grit-template-area:
