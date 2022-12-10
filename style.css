@@ -1,0 +1,15 @@
+header{
+}
+body{
+  background-color: #FFE3C8
+}
+.container{
+  /* Step 1: Set display to grid */
+  display:grid;
+  width: 90%;
+  margin: auto;
+  Margin-top: 150px;
+  /*Step 2: Setup rows and columns */
+}
+.box{
+}
